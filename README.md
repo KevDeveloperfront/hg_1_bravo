@@ -4,5 +4,5 @@
 
 ### Integrantes
 
-	**alfa		Leonardo Ambrosioni	H-1  Pull Request alfa**
-	**charlie	Jose D Romero		H-2  Pull Request charlie**
+	** alfa		Leonardo Ambrosioni	H-1  Pull Request alfa **
+	** charlie	Jose D Romero		H-2  Pull Request charlie **

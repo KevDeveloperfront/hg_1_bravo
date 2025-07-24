@@ -1,6 +1,6 @@
 # bravo 	H-2 Pull Request bravo		Kevin J Pérez
 
-## Team 1  (7 integrantes - Dividido en 2 grupos)
+## Team 1  (7 integrantes - Dividido en 2 grupos) team 1.1
 
 ### Integrantes
 

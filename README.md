@@ -6,3 +6,5 @@
 
 	** alfa		Leonardo Ambrosioni	H-1  Pull Request alfa **
 	** charlie	Jose D Romero		H-2  Pull Request charlie **
+ 	** delta	Nathali Mago		H-4  Pull Request delta **
+  	** echo		Gregory Uztariz		H-5  Pull Request echo	**
